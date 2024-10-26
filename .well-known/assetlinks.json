@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.altreed.altreedticket",
+      "sha256_cert_fingerprints":
+      ["10:EC:86:E4:9D:14:F1:04:14:CE:B6:9A:94:60:90:21:59:88:B5:6A:44:8B:5A:16:73:88:97:A4:A8:03:8E:F8"]
+    }
+  }]
