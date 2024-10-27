@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "teamiddelacuentadeappledesarrollo.com.altreed.altreedticket"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "teamiddelacuentadeappledesarrollo.com.altreed.altreedticket"
+    ]
+  }
+}
